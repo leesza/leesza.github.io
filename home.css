@@ -1,0 +1,33 @@
+
+body {background-color: BB4E1A;}
+aside {  background-color: #C70039;  text-align: left; float: auto; border-style: dashed  border-color: maroon; border-radius: 5px; border-style: inset;}
+
+section { background-color: #900C3F; text-align: right; float: auto; border-style: double border-color: black; border-radius: 5px; border-style: double; }
+
+nav {
+    display: block;
+    color: white}
+}
+
+a {color: white;}
+
+p { font-weight: bold;
+font-size: 14;
+font-family: sans-serif, cursive;
+margin: 12px}
+
+background-image {background-image: linear-gradient(to right, blue , pink)}
+
+
+        }
+        nav {
+            color: #040404;
+            text-decoration: none;
+            padding:10px 0 10px;
+
+        }
+
+        nav a:hover{
+            background-color: #ffffff;
+            color: #000000;
+            font-weight: bold;}
