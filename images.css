@@ -18,7 +18,7 @@
    margin: auto;
  padding: 12px}
 
-body {background-image: url("/Users/lee-annen/Desktop/assignment2/error.gif");}
+body {background-image: url("error.gif");}
         nav {
             display: block;
             color: white}
