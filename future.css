@@ -4,7 +4,7 @@ p::first-letter {font-size: 200%;
 
   p {font-family: sans-serif; font-size: 19px; color: white; border: 1px inset black; background-color: #1a001a ; }
 
-  body {background-image: url("public_htmlimages/cities.jpg"); }
+  body {background-image: url("public_imagescities.jpg"); }
 
 h1 {text-align: center; font-weight: bold; font-family: fantasy;}
 
