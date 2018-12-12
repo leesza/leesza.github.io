@@ -1,1 +1,26 @@
-section {border-style: dashed; border-color: red;}
+section,aside, article, p {border-style: double; border-color: red;}
+
+section:hover {box-shadow: 1px 1px 0 1px }
+
+body {background-image: url("public_images/loading.jpg");}
+
+section, div{float: left;}
+
+aside,p {float: right;}
+
+nav {
+    display: block;
+    color: white;}
+
+
+h1 {text-align: center; color: white;}
+
+h1::first-letter {font-size: 200%;
+    color: #661a00;}
+
+  * {margin: 12px;}
+
+  nav {
+      display: block;
+      color: white}
+  }

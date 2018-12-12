@@ -1,0 +1,18 @@
+h1{font-size: 20px;
+  font-weight: bold;
+   font-family: sans-serif; text-align: center; margin: auto;}
+
+p { font-size: 16px; font-weight: lighter; text-align: center; margin: 9px;}
+
+body {background-image: url("snow.gif")  ;
+background-position: center;}
+
+section { height: 250px;
+width: 250px; }
+
+aside { height: 200px;
+  width: 212px;
+}
+
+article {height: 222px;
+width: 120px; float:  right;}

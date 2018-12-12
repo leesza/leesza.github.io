@@ -1,12 +1,63 @@
+      div{
+            border: 13px double maroon;
+            border-radius: 3px;
+            padding: 7px;
+            width:315px;
+            height: 299px;
 
-
-        a{
-            border: 1px solid black;
-            border-radius: 4px;
-            padding: 5px;
-            width:150px;
         }
 
-        a:hover{
-            box-shadow: 0 0 2px 1px rgba(0,140,186,0.5);
+        div:hover{
+            box-shadow: 9px 01px 5px rgba(111,120,156,0.5);
         }
+        h1 {color: white;
+        text-align: center;
+      font-family: monospace;
+      border: 1px double white;
+     background-color: black;
+   margin: auto;
+ padding: 12px}
+
+body {background-image: url("/Users/lee-annen/Desktop/assignment2/error.gif");}
+        nav {
+            display: block;
+            color: white}
+        }
+
+        p{  float: left;
+            border: 13px double maroon;
+            border-radius: 3px;
+            padding: 7px;
+            width: 300px;
+            height: 165px;
+        }
+
+        p :hover{
+            box-shadow: 9px 7px 1px  rgba(111,120,156,0.5);
+        }
+
+        aside{float: right;
+              border: 13px double maroon;
+              border-radius: 3px;
+              padding: 7px;
+              width: 235px;
+              height: 370px;
+
+          }
+
+
+          aside:hover{
+              box-shadow: 9px 1px 5px  rgba(111,120,156,0.5);
+          }
+
+          section{
+              float: left;
+              border: 13px double maroon;
+              border-radius: 3px;
+              padding: 7px;
+              width: 369px;
+              height: 369px;
+   }
+   section:hover{
+       box-shadow: 9px 5px 2px  rgba(111,120,156,0.5);
+   }
